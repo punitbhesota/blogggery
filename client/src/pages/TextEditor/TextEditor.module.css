@@ -1,0 +1,15 @@
+.edit_container {
+  background-color: #d9d9d9;
+  margin: 10px;
+  text-align: center;
+  font-size: 25px;
+  padding: 15px;
+}
+.editicons {
+  width: 25px;
+  border: none;
+}
+.button {
+  background-color: #d9d9d9;
+  border: none;
+}
